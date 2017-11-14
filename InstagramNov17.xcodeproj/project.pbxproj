@@ -13,6 +13,7 @@
 		5FC4F8B61FBA9FAB00A8E1EE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5FC4F8B41FBA9FAB00A8E1EE /* Main.storyboard */; };
 		5FC4F8B81FBA9FAC00A8E1EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5FC4F8B71FBA9FAC00A8E1EE /* Assets.xcassets */; };
 		5FC4F8BB1FBA9FAC00A8E1EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5FC4F8B91FBA9FAC00A8E1EE /* LaunchScreen.storyboard */; };
+		5FC4F8C31FBAA64F00A8E1EE /* Auth.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5FC4F8C21FBAA64F00A8E1EE /* Auth.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		5FC4F8B71FBA9FAC00A8E1EE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5FC4F8BA1FBA9FAC00A8E1EE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5FC4F8BC1FBA9FAC00A8E1EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5FC4F8C21FBAA64F00A8E1EE /* Auth.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Auth.storyboard; sourceTree = "<group>"; };
 		F312F65BBCFFBD8D5AA2EB60 /* Pods_InstagramNov17.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_InstagramNov17.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -76,6 +78,7 @@
 				5FC4F8B71FBA9FAC00A8E1EE /* Assets.xcassets */,
 				5FC4F8B91FBA9FAC00A8E1EE /* LaunchScreen.storyboard */,
 				5FC4F8BC1FBA9FAC00A8E1EE /* Info.plist */,
+				5FC4F8C21FBAA64F00A8E1EE /* Auth.storyboard */,
 			);
 			path = InstagramNov17;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5FC4F8C31FBAA64F00A8E1EE /* Auth.storyboard in Resources */,
 				5FC4F8BB1FBA9FAC00A8E1EE /* LaunchScreen.storyboard in Resources */,
 				5FC4F8B81FBA9FAC00A8E1EE /* Assets.xcassets in Resources */,
 				5FC4F8B61FBA9FAB00A8E1EE /* Main.storyboard in Resources */,
